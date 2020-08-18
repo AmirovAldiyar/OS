@@ -1,0 +1,1762 @@
+    1              stmt.executeUpdate(sql);
+    2              c.commit();\n            rs = stmt.executeQuery( "SELECT * FROM COMPANY;" );
+    3              while ( rs.next() ) {
+    4                  int id = rs.getInt("id");
+    5                  String  name = rs.getString("name");
+    6                  int age  = rs.getInt("age");
+    7                  String  address                 String  address                 Strinry = rs.getFloat("salary");
+    8                  System.out.printl                Sy
+    9                  System.out.println( "NAME = " + name );
+   10                  System.out.println( "AGE = " + age );
+   11                  System.out.println( "ADDRESS = " + address );
+   12                  System.out.println( "SALARY = " + salary );
+   13                  System.out.println();\n            }
+   14              System.err.pri            System.err.pri         e.getMessage() );
+   15              System.exit(0);
+   16  ./"joint1"
+   17  ./"joint1"
+   18  make joint1
+   19  ./"joint1"
+   20  make joint1
+   21  ./"joint1"
+   22          c++;
+   23          for(int i = 0; i < n; i ++){
+   24              cout << fixed << setprecision(4)  << curr[i] << endl;\n        }\n        if(ch){\n            return 0;\n        }\n        if(c != 0){\n            double e = 0;\n            for(int i = 0; i < n; i ++){\n                e += (curr[i] - temp[i])*(curr[i] - temp[i]);\n            }\n            if(sqrt(e) <= ee){\n                ch = true;\n            }\n            cout << "e: " << fixed << setprecision(4)  << sqrt(e) << endl;\n        }\n        for(int i = 0; i < n; i ++){\n            temp[i] = curr[i];\n        }
+   25  ./"joint1"
+   26          c++;
+   27          for(int i = 0; i < n; i ++){
+   28              cout << fixed << setprecision(4)  << curr[i] << endl;\n        }\n        if(ch){\n            return 0;\n        }\n        if(c != 0){\n            double e = 0;\n            for(int i = 0; i < n; i ++){\n                e += (curr[i] - temp[i])*(curr[i] - temp[i]);\n            }\n            if(sqrt(e) <= ee){\n                ch = true;\n            }\n            cout << "e: " << fixed << setprecision(4)  << sqrt(e) << endl;\n        }\n        for(int i = 0; i < n; i ++){\n            temp[i] = curr[i];
+   29              cout << fixed << setprecision(4)  << curr[i] << endl;\n        }\n        if(ch){\n            return 0;\n        }\n        if(c != 0){\n            double e = 0;\n            for(int i = 0; i < n; i ++){\n                e += (curr[i] - temp[i])*(curr[i] - temp[i]);\n            }\n            if(sqrt(e) <= ee){\n                ch = true;\n            }\n            cout << "e: " << fixed << setprecision(4)  << sqrt(e) << endl;\n        }\n        for(int i = 0; i < n; i ++){\n            temp[i] = curr[i];
+   30  ./"joint1"
+   31              cout << fixed << setprecision(4)  << curr[i] << endl;\n        }\n        if(ch){\n            return 0;\n        }\n        if(c != 0){\n            double e = 0;\n            for(int i = 0; i < n; i ++){\n                e += (curr[i] - temp[i])*(curr[i] - temp[i]);\n            }\n            if(sqrt(e) <= ee){\n                ch = true;\n            }\n            cout << "e: " << fixed << setprecision(4)  << sqrt(e) << endl;\n        }\n        for(int i = 0; i < n; i ++){\n            temp[i] = curr[i];
+   32  make joint1
+   33  ./"joint1"
+   34          c++;
+   35          for(int i = 0; i < n; i ++){
+   36              cout << fixed << setprecision(4)  << curr[i] << endl;\n        
+   37  ./"joint1"
+   38  brew install gnuplot
+   39  brew install gnuplot
+   40  brew install g++
+   41  sudo sysctl -w net.inet.ip.ttl=65\n
+   42  source /Users/aldiaramirov/Desktop/Anur/env/bin/activate
+   43  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   44  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   45  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   46  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   47  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   48  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   49  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   50  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   51  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   52  source env/bin/activate
+   53  pip install pytelegrambotapi
+   54  source /Users/aldiaramirov/Desktop/Anur/env/bin/activate
+   55  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/.vscode/extensions/ms-python.python-2020.4.76186/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+   56  source /Users/aldiaramirov/Desktop/Anur/env/bin/activate
+   57  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   58  source /Users/aldiaramirov/Desktop/Anur/env/bin/activate
+   59  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   60  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   61  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   62  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   63  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   64  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   65  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   66  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   67  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   68  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   69  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   70  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   71  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   72  /Users/aldiaramirov/Desktop/Anur/env/bin/python3 /Users/aldiaramirov/Desktop/Anur/bot.py
+   73  make joint4
+   74  make joint3
+   75  make joint4
+   76  ./"joint4"
+   77  make joint4
+   78  ./"joint4"
+   79  make joint4
+   80  ./"joint4"
+   81  ./"joint4"
+   82  make joint4
+   83  ./"joint4"
+   84  make joint4
+   85  ./"joint4"
+   86  ./"joint4"
+   87  make joint4
+   88  ./"joint4"
+   89  make joint4
+   90  ./"joint4"
+   91  ./"joint4"
+   92  make joint4
+   93  ./"joint4"
+   94  make joint4
+   95  ./"joint4"
+   96  make joint4
+   97  ./"joint4"
+   98  make joint4
+   99  make joint4
+  100  ./"joint4"
+  101  make joint4
+  102  ./"joint4"
+  103  make joint4
+  104  make joint4
+  105  ./"joint4"
+  106  make joint4
+  107  ./"joint4"
+  108  make joint4
+  109  ./"joint4"
+  110  ./"joint4"
+  111  make joint4
+  112  110\n40\n0.4\n0.01\n0.3\n0.005\n50\n200
+  113  110\n40\n0.4\n0.01\n0.3\n0.005\n50\n200
+  114  110\n40\n0.4\n0.01\n0.3\n0.005\n50\n200
+  115  make joint4
+  116  ./"joint4"
+  117  make joint4
+  118  ./"joint4"
+  119  make joint4
+  120  ./"joint4"
+  121  ./"joint4"
+  122  ./"joint4"
+  123  make joint4
+  124  ./"joint4"
+  125  make joint4
+  126  ./"joint4"
+  127  make joint4
+  128  ./"joint4"
+  129  make joint4
+  130  ./"joint4"
+  131  make joint4
+  132  ./"joint4"
+  133  make joint4
+  134  ./"joint4"
+  135  make joint4
+  136  ./"joint4"
+  137  make joint4
+  138  ./"joint4"
+  139  make joint4
+  140  ./"joint4"
+  141  make joint4
+  142  ./"joint4"
+  143  make joint4
+  144  ./"joint4"
+  145  make joint4
+  146  ./"joint4"
+  147  make joint4
+  148  ./"joint4"
+  149  ./"joint4"
+  150  make joint4
+  151  ./"joint4"
+  152  make joint4
+  153  ./"joint4"
+  154  make joint4
+  155  ./"joint4"
+  156  make joint4
+  157  ./"joint4"
+  158  make joint4
+  159  ./"joint4"
+  160  make joint4
+  161  ./"joint4"
+  162  ./"joint4"
+  163  make joint4
+  164  ./"joint4"
+  165  ./"joint4"
+  166  make joint4
+  167  ./"joint4"
+  168  make joint4
+  169  ./"joint4"
+  170  make joint4
+  171  ./"joint4"
+  172  make joint4
+  173  ./"joint4"
+  174  make joint4
+  175  ./"joint4"
+  176  make joint4
+  177  ./"joint4"
+  178  ./"joint4"
+  179  ./"joint4"
+  180  make joint4
+  181  ./"joint4"
+  182  make joint4
+  183  ./"joint4"
+  184  make joint4
+  185  ./"joint4"
+  186  make joint4
+  187  ./"joint4"
+  188  make joint4
+  189  ./"joint4"
+  190  make joint4
+  191  ./"joint4"
+  192  ./"joint4"
+  193  make joint4
+  194  ./"joint4"
+  195  make joint4
+  196  ./"joint4"
+  197  #include<cmath>
+  198  #include<iomanip>
+  199  #include<cstdio>
+  200  #ifdef WIN32
+  201  #define GNUPLOT_NAME "C:\\gnuplot\\bin\\gnuplot -persist"
+  202  #else
+  203  #define GNUPLOT_NAME "gnuplot -persist"
+  204  #endif
+  205  using namespace std;
+  206  int main(){\n    #ifdef WIN32\n    FILE* pipe = _popen(GNUPLOT_NAME, "w");\n    #else\n    FILE* pipe = popen(GNUPLOT_NAME, "w");\n    #endif\n    double v_0, k_0, a_1, b_1, a_2, b_2;\n    int T;\n    cin >> v_0;\n    cin >> k_0;\n    cin >> a_1 >> b_1 >> a_2 >> b_2;\n    cin >> T;\n    int N;\n    cin >> N;\n    double step = double(T)/double(N);\n    double v[N+1],k[N+1];\n    v[0] = v_0;\n    k[0] = k_0;\n    v_0 = v_0 - a_2/b_2;\n    k_0 = k_0 - a_1/b_1;\n    double t = 0;\n    cout << "t:\n";\n    for(int i = 1; i <= N; i ++){\n        cout << fixed << setprecision(2) << t;\n        if(i != N){\n            cout << ' ';\n        }\n        t += step;\n        v[i] = v_0 * cos(sqrt(a_1 * a_2) * t) - k_0 * sqrt(a_2) * b_1 / (b_2 * sqrt(a_1)) * sin(sqrt(a_1 * a_2) * t) + a_2/b_2;\n        k[i] = v_0 * sqrt(a_1) * b_2 /(b_1 * sqrt(a_2)) * sin(sqrt(a_1 * a_2) * t) + k_0 * cos(sqrt(a_1 * a_2) * t) + a_1/b_1;\n        k[i] = v_0 * sqrt(a_1) * b_2 /(b_1 * sqrt(a_2))  ++){\n        cout << fixed << setprecision(2) << v[i];        cout << fi){\n            cout << ' ';\n        }\n    }\n    cout << "\nk:\n";\n    for(int i = 0; i <= N; i ++){\n        cout << fixed << setprecision(2) << k[i];\n        if(i != N){\n            cout << ' ';\n        }\n    }\n    if(pipe != NULL){\n        fprintf(pipe, "%s\n", "set multiplot layout 1,2 rowsfirst title 'Predator-prey model' ");\n        fprintf(pipe, "%s\n", "set title 'Process in time' ");\n\n        fprintf(pipe, "%s\n", "plot '-' using 1:2 title 'victims' with line, '-' using 1:2 title 'killers' with line");\n        \n        for(int i = 0; i <= N; i++){\n            double x = step * i;\n            double y = v[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        for(int i = 0; i <= N; i++){\n            double x = step * i;\n            double y = k[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        fprintf(pipe, "%s\n", "set title 'Predator-prey relation'");\n        fprintf(pipe, "%s\n", "plot '-' using 1:2 title 'relation' with line");\n        \n        for(int i = 0; i <= N; i++){\n            double x = v[i];\n            double y = k[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        fflush(pipe);\n        pclose(pipe);\n    }\n}
+  207  int main(){\n    #ifdef WIN32\n    FILE* pipe = _popen(GNUPLOT_NAME, "w");\n    #else\n    FILE* pipe = popen(GNUPLOT_NAME, "w");\n    #endif\n    double v_0, k_0, a_1, b_1, a_2, b_2;\n    int T;\n    cin >> v_0;\n    cin >> k_0;\n    cin >> a_1 >> b_1 >> a_2 >> b_2;\n    cin >> T;\n    int N;\n    cin >> N;\n    double step = double(T)/double(N);\n    double v[N+1],k[N+1];\n    v[0] = v_0;\n    k[0] = k_0;\n    v_0 = v_0 - a_2/b_2;\n    k_0 = k_0 - a_1/b_1;\n    double t = 0;\n    cout << "t:\n";\n    for(int i = 1; i <= N; i ++){\n        cout << fixed << setprecision(2) << t;\n        if(i != N){\n            cout << ' ';\n        }\n        t += step;\n        v[i] = v_0 * cos(sqrt(a_1 * a_2) * t) - k_0 * sqrt(a_2) * b_1 / (b_2 * sqrt(a_1)) * sin(sqrt(a_1 * a_2) * t) + a_2/b_2;\n        k[i] = v_0 * sqrt(a_1) * b_2 /(b_1 * sqrt(a_2)) * sin(sqrt(a_1 * a_2) * t) + k_0 * cos(sqrt(a_1 * a_2) * t) + a_1/b_1;\n        k[i] = v_0 * sqrt(a_1) * b_2 /(b_1 * sqrt(a_2))  ++){\n        cout << fixed << setprecision(2) << v[i];        cout << fi){\n            cout << ' ';\n        }\n    }\n    cout << "\nk:\n";\n    for(int i = 0; i <= N; i ++){\n        cout << fixed << setprecision(2) << k[i];\n        if(i != N){\n            cout << ' ';\n        }\n    }\n    if(pipe != NULL){\n        fprintf(pipe, "%s\n", "set multiplot layout 1,2 rowsfirst title 'Predator-prey model' ");\n        fprintf(pipe, "%s\n", "set title 'Process in time' ");\n\n        fprintf(pipe, "%s\n", "plot '-' using 1:2 title 'victims' with line, '-' using 1:2 title 'killers' with line");\n        \n        for(int i = 0; i <= N; i++){\n            double x = step * i;\n            double y = v[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        for(int i = 0; i <= N; i++){\n            double x = step * i;\n            double y = k[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        fprintf(pipe, "%s\n", "set title 'Predator-prey relation'");\n        fprintf(pipe, "%s\n", "plot '-' using 1:2 title 'relation' with line");\n        \n        for(int i = 0; i <= N; i++){\n            double x = v[i];\n            double y = k[i];\n            fprintf(pipe, "%f\t%f\n", x, y);\n        }\n        fprintf(pipe, "%s\n", "e");\n        fflush(pipe);\n        pclose(pipe);\n    }\n}
+  208  make joint4
+  209  ./"joint4"
+  210  make joint4
+  211  ./"joint4"
+  212  ./"joint4"
+  213  ./"joint4"
+  214  /Volumes/FLStudio20\ Keygen/RemoveKeyfile.command ; exit;
+  215  make joint5
+  216  make joint5
+  217  make joint5
+  218  make joint5
+  219  ./"joint5"
+  220  make joint5
+  221  make joint5
+  222  ./"joint5"
+  223  make joint5
+  224  ./"joint5"
+  225  make joint5
+  226  ./"joint5"
+  227  make joint5
+  228  ./"joint5"
+  229  make joint5
+  230  ./"joint5"
+  231  make joint5
+  232  ./"joint5"
+  233  make joint5
+  234  make joint5
+  235  make joint5\\n
+  236  ./"joint5"
+  237  make joint5
+  238  ./"joint5"
+  239  make joint5
+  240  make joint5test
+  241  ./"joint5test"
+  242  make joint5test
+  243  ./"joint5test"
+  244  make joint5test
+  245  ./"joint5test"
+  246  make joint5test
+  247  make joint5test
+  248  make joint5test
+  249  ./"joint5test"
+  250  make joint5test
+  251  make joint5test
+  252  ./"joint5test"
+  253  make joint5test
+  254  ./"joint5test"
+  255  make joint5test
+  256  ./"joint5test"
+  257  ./"joint5test"
+  258  make joint5test
+  259  ./"joint5test"
+  260  make joint5test
+  261  ./"joint5test"
+  262                  st.push(tmp);
+  263  clear
+  264  make joint5test
+  265  ./"joint5test"
+  266  make joint5test
+  267  ./"joint5test"
+  268  make joint5test
+  269  ./"joint5test"
+  270  make joint5test
+  271  ./"joint5test"
+  272  make joint5test
+  273  ./"joint5test"
+  274  make joint5test
+  275  ./"joint5test"
+  276  make joint5test
+  277  ./"joint5test"
+  278  make joint5test
+  279  ./"joint5test"
+  280  make joint5test
+  281  ./"joint5test"
+  282  make joint5test
+  283  make joint5test
+  284  ./"joint5test"
+  285  make joint5test
+  286  ./"joint5test"
+  287  make joint5test
+  288  ./"joint5test"
+  289  make joint5test
+  290  ./"joint5test"
+  291  make joint5test
+  292  ./"joint5test"
+  293  make joint5test
+  294  ./"joint5test"
+  295      double tmp = 0;
+  296      int sz = 0;
+  297      for(int i = 0; i < s.size(); i ++){
+  298          if(s[i] >= '0' && s[i] <= '9'){
+  299              sz++;
+  300              tmp *= 10;
+  301              tmp += (s[i] - '0');
+  302          else{
+  303              if(sz != 0){
+  304                  st.push(tmp);
+  305              sz = 0;
+  306              tmp = 0;
+  307      if(sz != 0){
+  308                  st.push(tmp);
+  309      while(st.size()){
+  310          d[st.size()-1]=st.top();\n        st.pop();\n    }
+  311  make joint5
+  312  make joint5test
+  313  ./"joint5test"
+  314  make joint5test
+  315  ./"joint5test"
+  316  cd Desktop
+  317  jar AtomCraft.jar
+  318  java AtomCraft.jar
+  319  java -jar AtomCraft.jar
+  320  ./"joint5test"
+  321  6
+  322  0.2
+  323  0.025
+  324  0.1
+  325  0.02
+  326  200
+  327  ./"joint4test"
+  328  ./"joint4"
+  329  cd Desktop
+  330  java -jar Atom
+  331  java -jar AtomCraft.jar
+  332  /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/aldiaramirov/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
+  333  cd Final1
+  334  python3 ass.py
+  335  python3 ass.py
+  336  python3 ass.py
+  337  python3 ass.py
+  338  python3 ass.py
+  339  python3 ass.py
+  340  python3 ass.py
+  341  python3 ass.py
+  342  python3 ass.py
+  343  python3 ass.py
+  344  python3 ass.py
+  345  python3 ass.py
+  346  python3 ass.py
+  347  python3 ass.py
+  348  python3 ass.py
+  349  python3 ass.py
+  350  python3 ass.py
+  351  python3 ass.py
+  352  python3 ass.py
+  353  python3 ass.py
+  354  python3 ass.py
+  355  python3 ass.py
+  356  python3 ass.py
+  357  python3 ass.py
+  358  python3 ass.py
+  359  python3 ass.py
+  360  python3 ass.py
+  361  python3 ass.py
+  362  python3 ass.py
+  363  python3 ass.py
+  364  python3 ass.py
+  365  python3 ass.py
+  366  python3 ass.py
+  367  python3 ass.py
+  368  python3 ass.py
+  369  python3 ass.py
+  370  pip install regex
+  371  pip3 install regex
+  372  python3 test.py
+  373  python3 ass.py
+  374  python3 ass.py
+  375  python3 ass.py
+  376  python3 ass.py
+  377  python3 copy.py
+  378  python3 copy.py
+  379  python3 copy.py
+  380  python3 copy.py
+  381  python3 ass.py
+  382  python3 ass.py
+  383  python3 ass.py
+  384  winetricks
+  385  java -jar AtomCraft.jar
+  386  wget
+  387  sudo xattr -rd com.apple.quarantine ./World\ of\ Warcraft.app
+  388  cd ..
+  389  cd ..
+  390  cd ..
+  391  cd ..
+  392  ls
+  393  sudo xattr -rd com.apple.quarantine ./World\ of\ Warcraft.app
+  394  pip3 install numpy
+  395  sudo xattr -rd com.apple.quarantine .UWow.app
+  396  ls
+  397  sudo xattr -rd com.apple.quarantine UWow.app
+  398  /Library/Frameworks/Python.framework/Versions/3.8/bin/python3
+  399  ls
+  400  cd Final1
+  401  python3 final2.py
+  402  python3 final2.py
+  403  python3 final2.py
+  404  python3 final2.py
+  405  python3 final2.py
+  406  python3 final2.py
+  407  python3 copy.py
+  408  python3 copy.py
+  409  python3 copy.py
+  410  python3 copy.py
+  411  python3 copy.py
+  412  python3 copy.py
+  413  python3 final2.py
+  414  python3 final2.py
+  415  python3 final2.py
+  416  python3 final2.py
+  417  python3 final2.py
+  418  python3 final2.py
+  419  python3 final2.py
+  420  python3 final2.py
+  421  python3 final2.py
+  422  python3 final2.py
+  423  digits = line.split('#')
+  424  python3 final2.py
+  425  cd Final1
+  426  python3 copy.py
+  427  python3 copy.py
+  428  python3 copy.py
+  429  python3 copy.py
+  430  python3 copy.py
+  431  python3 copy.py
+  432  python3 copy.py
+  433  python3 copy.py
+  434  python3 copy.py
+  435  python3 copy.py
+  436  python3 copy.py
+  437  python3 copy.py
+  438  python3 copy.py
+  439  python3 copy.py
+  440  python3 copy.py
+  441  python3 copy.py
+  442  python3 copy.py
+  443  python3 copy.py
+  444  python3 copy.py
+  445  python3 copy.py
+  446  python3 copy.py
+  447  python3 copy.py
+  448  python3 copy.py
+  449  python3 copy.py
+  450  python3 copy.py
+  451  python3 copy.py
+  452  python3 copy.py
+  453  python3 copy.py
+  454  python3 copy.py
+  455  python3 copy.py
+  456  python3 copy.py
+  457  python3 copy.py
+  458  python3 copy.py
+  459  python3 copy.py
+  460  python3 copy.py
+  461  python3 test.py
+  462  make final.cpp
+  463  make final.cpp
+  464  ./"final"
+  465  ./"final.cpp"
+  466  ./"final"
+  467  ./"final.cpp"
+  468  python3 rakhat.py
+  469  python3 rakhat.py
+  470  python3 rakhat.py
+  471  python3 rakhat.py
+  472  python3 rakhat.py
+  473  python3 rakhat.py
+  474  go run main.go
+  475  go run main.go
+  476  clear
+  477  cd Symbat
+  478  python3 72hard.py
+  479  python3 72hard.py
+  480  python3 72hard.py
+  481  python3 71hard.py
+  482  python3 71hard.py
+  483  python3 61med.py
+  484  go doc delete
+  485  go doc 
+  486  go doc
+  487  go docs
+  488  go help
+  489  go help doc
+  490  gorun main.go
+  491  go run main.go
+  492  go run main.go
+  493  go run main.go
+  494  go run main.go
+  495  cd "/Users/aldiaramirov/Downloads/ex1_code (1)" && clear
+  496  make main
+  497  "./main"
+  498  sudo sysctl -w net.inet.ip.ttl=65\n
+  499  cd Desktop
+  500  cd GoLang
+  501  code .
+  502  code 
+  503  vs
+  504  make main
+  505  make main stack
+  506  make stack
+  507  make stack
+  508  make stack
+  509  make stack
+  510  make stack
+  511  clear
+  512  clear
+  513  make stack
+  514  make stack
+  515  clang -version
+  516  clang --version
+  517  make main.cpp stack.cpp
+  518  make main stack
+  519  make stack main
+  520  go run main.go
+  521  go run main.go
+  522  go run main.go
+  523  go run main.go
+  524  go run main.go
+  525  go run main.go
+  526  go run main.go
+  527  go run main.go
+  528  go run main.go
+  529  go run main.go
+  530  go run main.go
+  531  go run main.go
+  532  go run main.go
+  533  go run main.go
+  534  go run main.go
+  535  go run main.go
+  536  go run main.go
+  537  cd Homeworks
+  538  make main.cpp
+  539  make main
+  540  make main
+  541  make main
+  542  make main
+  543  make main
+  544  make main
+  545  make main
+  546  "./main"
+  547  "./main"
+  548  make main
+  549  make main
+  550  "./main"
+  551  make csci152_student.h
+  552  make csci152_student
+  553  "./main"
+  554  make csci152_student
+  555  make main
+  556  "./main"
+  557  make main
+  558  "./main"
+  559  make main
+  560  make main
+  561  "./main"
+  562  make main
+  563  "./main"
+  564  "./main"
+  565  make main
+  566  "./main"
+  567  make main
+  568  "./main"
+  569  make main
+  570  "./main"
+  571  "./main"
+  572  make main
+  573  "./main"
+  574  make main
+  575  "./main"
+  576  "./main"
+  577  make main
+  578  make main
+  579  "./main"
+  580  make main
+  581  "./main"
+  582  make main
+  583  "./main"
+  584  make main
+  585  "./main"
+  586  make main
+  587  "./main"
+  588  make main
+  589  "./main"
+  590  make main
+  591  "./main"
+  592  go mod init gitlab.com/pragmaticreviews/golang-gin-poc
+  593  go get github.com/gin-gonic/gin
+  594  go get github.com/constabulary/gb/...
+  595  gb vendor
+  596  go get github.com/constabulary/gb/...
+  597  bg
+  598  gb
+  599  go get -u
+  600  go get -u
+  601  cd ..
+  602  make main
+  603  htop
+  604  clear
+  605  ls
+  606  clear
+  607  python
+  608  clear
+  609  clear
+  610  top
+  611  htop
+  612  brew install htop
+  613  gtop
+  614  htop
+  615  clear
+  616  ls
+  617  clrar
+  618  clr
+  619  clear
+  620  code .
+  621  cd DO
+  622  cd Downloads
+  623  cd initital
+  624  code .
+  625  htop
+  626  code .
+  627  htop
+  628  cd Desktop
+  629  cd GoLang
+  630  code .
+  631  ls
+  632  mkdir testmod
+  633  cd testmod
+  634  code .
+  635  /Users/aldiaramirov/Downloads/oqutoda
+  636  cd /Users/aldiaramirov/Downloads/oqutoday (2)/src
+  637  cd /Users/aldiaramirov/Downloads/oqutoday\ \(2\)/src
+  638  code .
+  639  св юю
+  640  cd ..
+  641  cd ..
+  642  cd ..
+  643  cd Desktop
+  644  cd GoLang
+  645  cd oquToday
+  646  cd golangApi
+  647  git init
+  648  git init
+  649  git
+  650  clear
+  651  git clone https://github.com/AmirovAldiyar/oquToday.git
+  652  ls
+  653  cd oquToday
+  654  ls
+  655  open README.md ]
+  656  open README.md 
+  657  open README.md
+  658  git push origin
+  659  git commit 
+  660  git commit -m "Hello World"
+  661  git add *
+  662  git commit
+  663  git push 
+  664  git checkout -b testBranch
+  665  ls]
+  666  ls
+  667  gitk
+  668  git config color.ui true
+  669  git 
+  670  clear
+  671  git checkout master
+  672  git branch -d testBranch
+  673  git config color.ui true
+  674  clear
+  675  cd Desktop
+  676  cd GoLang
+  677  cd oquToday
+  678  cd golangApi
+  679  cd i
+  680  cd oquToday
+  681  git
+  682  clear
+  683  open README.md
+  684  git add *
+  685  git commit
+  686  git push
+  687  clear
+  688  quit
+  689  quit()\n\n;\n;
+  690  clear
+  691  python
+  692  clear
+  693  break
+  694  clear
+  695  htop
+  696  htop
+  697  make
+  698  cd golangApi
+  699  make
+  700  cd oquToday
+  701  make
+  702  htop
+  703  clear
+  704  htop
+  705  htop
+  706  clear
+  707  clear
+  708  cd Desktop/GoLang/oquToday
+  709  cd golangApi
+  710  cd oquToday
+  711  git 
+  712  clear
+  713  git
+  714  git checkout -b newbranch
+  715  clear
+  716  git 
+  717  git branch -d newbranch
+  718  git checkout master
+  719  git branch -d newbranch
+  720  clear
+  721  ls
+  722  go mod init github.com/AmirovAldiyar/oquToday
+  723  clear
+  724  code .
+  725  git commit -m "adding go module"
+  726  git add *
+  727  git commit -m "adding go module"
+  728  clear
+  729  git push master
+  730  git push 
+  731  cleae
+  732  caer
+  733  clear
+  734  code .
+  735  code .
+  736  clear
+  737  brew update
+  738  brew doctor
+  739  clear
+  740  brew install posgresql
+  741  brew install postgresql
+  742  clear
+  743  diskutil list
+  744  diskutil unmount /dev/disk2
+  745  clear
+  746  clear
+  747  cd /Library/PostgreSQL/11
+  748  cd /Library/PostgreSQL
+  749  ls
+  750  cd 12
+  751  open uninstall-postgresql.app
+  752  createdb
+  753  su - postgres
+  754  psql template1
+  755  psql
+  756  postgres
+  757  postgres hep
+  758  postgres --help
+  759  psql
+  760  /Library/PostgreSQL/11systemctl status postgresql
+  761  systemctl status postgresql
+  762  restart posgresql
+  763  ыгвщ
+  764  sudo
+  765  sudo su - postgres
+  766  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  767  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  768  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  769  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  770  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  771  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  772  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  773  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  774  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  775  htop
+  776  sudo rm /Library/PostgreSQL/12/data 
+  777  sudo rmdir /Library/PostgreSQL/12/data 
+  778  sudo rm -r /Library/PostgreSQL/12/data 
+  779  brew install lunchy
+  780  brew cask install lunchy
+  781  postgres --version
+  782  createdb rest
+  783  createdb rest
+  784  createdb rest
+  785  createdb rest
+  786  createdb rest
+  787  psql
+  788  su - postgres
+  789  psql
+  790  psql
+  791  psql
+  792  psql
+  793  psql
+  794  cd Library
+  795  ls
+  796  cd ..
+  797  cd ..
+  798  cd ..
+  799  ls
+  800  cd Library
+  801  cd PostgreSQL
+  802  cd 12
+  803  cd data
+  804  sudo cd data
+  805  su - postgres
+  806  lunchy
+  807  launchctl restart postgres
+  808  lunchy restart postgres
+  809  su - postgres
+  810  lunchy restart postgres
+  811  lunchy status postgres
+  812  lunchy status 
+  813  lunchy start postgres 
+  814  lunchy status postgres 
+  815  lunchy status 
+  816  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log restart
+  817  pg_ctl -D /usr/local/var/postgres restart
+  818  pg_ctl 
+  819  pg_ctl --help
+  820  pg_ctl stop
+  821  open uninstall-postgresql.app
+  822  posgres -help
+  823  postgres -help
+  824  brew uninstall postgres
+  825  postgres
+  826  pq
+  827  pq-ctl
+  828  postgre -version
+  829  postgres -version
+  830  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  831  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  832  /Library/PostgreSQL/12/scripts/runpsql.sh; exit
+  833  make
+  834  go get github.com/BurntSushi/toml
+  835  make
+  836  ./apiserver -help
+  837  ./apiserver -config-path = config.toml
+  838  ./apiserver -config-path config.toml
+  839  go get gitlab.com/sirupsen/logrus
+  840  go get github.com/sirupsen/logrus
+  841  make
+  842  ./apiserver
+  843  make
+  844  ./apiserver
+  845  make
+  846  ./apiserver
+  847  ./apiserver
+  848  ./apiserver
+  849  make
+  850  ./apiserver
+  851  make
+  852  ./apiserver
+  853  ./apiserver
+  854  ./apiserver
+  855  git get github.com/gorilla/mux
+  856  go get github.com/gorilla/mux
+  857  make
+  858  ./apiserver
+  859  go get github.com/stretchr/testify
+  860  make test
+  861  make test
+  862  go get github.com/lib/pq
+  863  make
+  864  ./apiserver
+  865  createdb restapi_dev
+  866  createdb restapi_dev
+  867  createdb restapi_dev
+  868  make
+  869  ./apiserver
+  870  ./apiserver
+  871  ./apiserver
+  872  ./apiserver
+  873  ./apiserver
+  874  ./apiserver
+  875  createdb restapi_dev
+  876  createdb restapi_dev
+  877  createdb restapi_dev
+  878  createdb restapi_dev
+  879  su - postgresql
+  880  createdb restapi_dev
+  881  createdb restapi_dev
+  882  createdb restapi_dev
+  883  createdb restapi_dev
+  884  createdb restapi_dev
+  885  createdb restapi_dev
+  886  createdb restapi_dev
+  887  createdb restapi_dev
+  888  createdb restapi_dev
+  889  psql -U postgres
+  890  psql -U postgres
+  891  createdb restapi-dev
+  892  su - postgres
+  893  su - postgres
+  894  psql
+  895  createdb restapi-dev
+  896  createdb restapi_dev
+  897  createdb restapi_dev
+  898  createdb
+  899  createdb
+  900  createdb restapi-dev
+  901  ls
+  902  createdb restapi-dev
+  903  ./apiserver
+  904  ./apiserver
+  905  ./apiserver
+  906  ./apiserver
+  907  ./apiserver
+  908  ./apiserver
+  909  createdb restapi-dev
+  910  createdb restapi-dev
+  911  createdb restapi_dev
+  912  ./apiserver
+  913  ./apiserver
+  914  make
+  915  ./apiserver
+  916  ./apiserver
+  917  clear
+  918  ./apiserver
+  919  make
+  920  ./apiserver
+  921  ./apiserver -v
+  922  make
+  923  ./apiserver -v
+  924  ./apiserver
+  925  make
+  926  ./apiserver
+  927  make
+  928  ./apiserver
+  929  make
+  930  ./apiserver
+  931  make
+  932  ./apiserver
+  933  make
+  934  ./apiserver
+  935  go get github.com/golang-migrate/migrate
+  936  migrate create -ext sql -dir migrations createusers
+  937  migrate create -ext sql -dir migrations createusers
+  938  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" up
+  939  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" up
+  940  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" up
+  941  deletedb restapi_dev
+  942  dropdb restapi_dev
+  943  creatdb restapi_dev
+  944  createdb restapi_dev
+  945  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" up
+  946  createdb restapi_test
+  947  migrate -path migrations -database "postgres://localhost/restapi_test?sslmode=disable" up
+  948  clear
+  949  postgres
+  950  psql
+  951  brew install postgres
+  952  psql
+  953  su - postgres
+  954  postgres
+  955  pq-ctl start
+  956  ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+  957  alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"\nalias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+  958  alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"\nalias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+  959  alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+  960  alias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+  961  pg_start
+  962  psql
+  963  psql
+  964  psql
+  965  alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"\nalias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+  966  pg_stop
+  967  createdb
+  968  createdb
+  969  brew unistall postgres
+  970  brew uninstall postgres
+  971  brew install postgresql
+  972  pg_ctl -D /usr/local/var/postgres start
+  973  open uninstall-postgresql.app
+  974  cd ..
+  975  cd ..
+  976  cd Library/
+  977  cd PostgreSQL
+  978  cd 12
+  979  open uninstall-postgresql.app
+  980  pg_ctl -D /usr/local/var/postgres start
+  981  pg_ctl -D /usr/local/var/postgres stop
+  982  clear
+  983  cd ROOT
+  984  cd $
+  985  cd $ROOT
+  986  ls
+  987  clear
+  988  pg_ctl -D /usr/local/var/postgres start
+  989  dropdb restapi-dev
+  990  dropdb restapi-dev
+  991  brew install golang-migrate
+  992  psql
+  993  psql
+  994  psql -d restapi_dev
+  995  clear
+  996  htop
+  997  htop
+  998  htop
+  999  htop
+ 1000  clear
+ 1001  cd ..
+ 1002  Down
+ 1003  cd Downloads
+ 1004  cd ..
+ 1005  cd Desktop
+ 1006  cd Go
+ 1007  cd GoLang/oquToday
+ 1008  cd golangApi
+ 1009  cd oquToday
+ 1010  clear
+ 1011  git --help
+ 1012  git checkout
+ 1013  git checkout -b newbranch
+ 1014  git checkout master
+ 1015  git branch -d newbranch
+ 1016  clear
+ 1017  cleart
+ 1018  clear
+ 1019  go get golang.org/x/crpto
+ 1020  go get golang.org/x/crypto
+ 1021  claer
+ 1022  clear
+ 1023  htop
+ 1024  go get github.com/go-ozzo/ozzo-validation/v4
+ 1025  \ngo get github.com/go-ozzo/ozzo-validation/v4/is
+ 1026  make test
+ 1027  htop
+ 1028  gopls 
+ 1029  killall gopls
+ 1030  pg_ctl -D /usr/local/var/postgres start
+ 1031  pg_ctl -D /usr/local/var/postgres stop
+ 1032  pg_ctl -D /usr/local/var/postgres start
+ 1033  psql
+ 1034  sqlp
+ 1035  pqsl
+ 1036  psql
+ 1037  pg_ctl -D /usr/local/var/postgres start
+ 1038  clear
+ 1039  cclear
+ 1040  clea
+ 1041  claer
+ 1042  clear
+ 1043  psql
+ 1044  psql restapi_dev
+ 1045  clear
+ 1046  migrate
+ 1047  clear
+ 1048  migrate -dir migrations up
+ 1049  migrate -path migrations -database "postgres://localhost:5432" up
+ 1050  migrate -path migrations -database "postgres://localhost:5432" -sslmode disables down
+ 1051  migrate -path migrations -database "postgres://localhost:5432" -sslmode disable down
+ 1052  migrate -path migrations -database "postgres://localhost:5432" -sslmode=disable down
+ 1053  migrate -path migrations -database "postgres://localhost:5432" down
+ 1054  migrate -path migrations -database "postgres://localhost:5432?sslmode=disable" down
+ 1055  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" down
+ 1056  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" up
+ 1057  clear
+ 1058  claer
+ 1059  clear
+ 1060  make
+ 1061  ./apiserver
+ 1062  http
+ 1063  gopls
+ 1064  golps
+ 1065  gopls
+ 1066  brew install gopls
+ 1067  make
+ 1068  ./apiserver
+ 1069  http
+ 1070  brew install http
+ 1071  brew install httpie
+ 1072  clear
+ 1073  http POST http://localhost:8080/users email=invalid
+ 1074  http POST http://localhost:8080/users email=user@example.org password=password
+ 1075  clear
+ 1076  make
+ 1077  ./apiserver
+ 1078  clear
+ 1079  http POST http://localhost:8080/sessions email=user@example.org password=123
+ 1080  http POST http://localhost:8080/sessions email=user@example.org password=password
+ 1081  go get github.com/gorilla/sessions
+ 1082  make
+ 1083  ./apiserver
+ 1084  clear
+ 1085  http POST http://localhost:8080/sessions email=user@example.org password=133
+ 1086  http POST http://localhost:8080/sessions email=user@example.org password=password
+ 1087  clear
+ 1088  psql apiserver_dev
+ 1089  psql restapi_dev
+ 1090  clear
+ 1091  cd
+ 1092  ls
+ 1093  cd
+ 1094  cd Applications
+ 1095  clear
+ 1096  cd ,,
+ 1097  cd ..
+ 1098  cd Desktop/Go
+ 1099  cd Desktop/GoLang/oquToday/golangApi/oquToday
+ 1100  clear
+ 1101  cd $ROOT
+ 1102  clear
+ 1103  http POST http://localhost:8080/sessions email=user@example.org password=1
+ 1104  clear
+ 1105  make
+ 1106  ./apiserver
+ 1107  http http://localhost/private/whoami
+ 1108  http http://localhost:8080/private/whoami
+ 1109  http -v --session=user POST http://localhost:8080/sessions email=user@example.org password=password
+ 1110  clear
+ 1111  http --session=user http://localhost:8080/private/whoami
+ 1112  go get github.com/gorilla/handlers
+ 1113  apiserver
+ 1114  ./apiserver
+ 1115  cleaar
+ 1116  clear
+ 1117  http --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1118  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1119  go get github.com/google/uuid
+ 1120  make
+ 1121  ./apiserver
+ 1122  clear
+ 1123  claer
+ 1124  clear
+ 1125  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1126  make
+ 1127  ./apiserver
+ 1128  cleart
+ 1129  clear
+ 1130  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1131  make
+ 1132  ./apiserver
+ 1133  clear
+ 1134  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1135  clear
+ 1136  git add *
+ 1137  git commit
+ 1138  cd Downloads\n$ curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+ 1139  cd Downloads\n$ curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+ 1140  cd Downloads
+ 1141  curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+ 1142  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+ 1143  clear
+ 1144  cd Desktop/GoLang/oquToday/golangApi/oquToday
+ 1145  clear
+ 1146  git commit -m "clean project with authorization, CORS, Request UUID and logger"
+ 1147  git push
+ 1148  clear
+ 1149  git remote
+ 1150  heroku login
+ 1151  brew install heroku
+ 1152  сдуфк
+ 1153  claer
+ 1154  clear
+ 1155  heroku
+ 1156  brew install heroku
+ 1157  brew cask install heroku
+ 1158  brew tap heroku/brew
+ 1159  heruku
+ 1160  heroku
+ 1161  brew install heroku
+ 1162  clear
+ 1163  heroku --version
+ 1164  clear
+ 1165  heroku login
+ 1166  clear
+ 1167  heroku git:remote -a oquToday
+ 1168  heroku git:remote -a oqu-today
+ 1169  git add .
+ 1170  git commit -m "heroku commit"
+ 1171  git push heroku master
+ 1172  clear 
+ 1173  heroku logs --tail
+ 1174  clear
+ 1175  mak
+ 1176  make
+ 1177  ./apiserver
+ 1178  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1179  clear
+ 1180  git add .
+ 1181  git commit -m "adding env"
+ 1182  clear
+ 1183  git push heroku master
+ 1184  clear
+ 1185  heroku logs --tail
+ 1186  clear
+ 1187  git add .
+ 1188  make
+ 1189  ./apiserver
+ 1190  http -v --session=user http://localhost:8080/private/whoami "Origin: google.com"
+ 1191  clear
+ 1192  git commit -m "sllmode require"
+ 1193  git push heroku master
+ 1194  clear
+ 1195  heroku logs --tail
+ 1196  heroku pg:psql postgresql-round-65163 --app oqu-today
+ 1197  git add .
+ 1198  git commit -m "sslmode default"
+ 1199  git push heroku master
+ 1200  heroku logs --tail
+ 1201  claer
+ 1202  clear
+ 1203  git add .
+ 1204  git commit -m "env port"
+ 1205  git push heroku master
+ 1206  heroku logs --tail
+ 1207  git add .
+ 1208  git commit -m "little fix"
+ 1209  git push heroku master
+ 1210  heroku logs --tail
+ 1211  cealr
+ 1212  clear
+ 1213  brew install react
+ 1214  nodemon
+ 1215  brew install nodemon
+ 1216  clear
+ 1217  node -v
+ 1218  npm -v
+ 1219  npm install -g create-react-app
+ 1220  npm -v$create-react-app — version
+ 1221  create-react-app -version
+ 1222  sudo npm install -g create-react-app
+ 1223  create-react-app -version
+ 1224  create-react-app - version
+ 1225  npm -v$create-react-app — version
+ 1226  '/Users/aldiaramirov/Downloads/oqutoday (2)' 
+ 1227  clear
+ 1228  npm start
+ 1229  cd src
+ 1230  npm start
+ 1231  npm install
+ 1232  npm start
+ 1233  clear
+ 1234  diskutil
+ 1235  diskutil eject
+ 1236  diskutil eject 
+ 1237  diskutil list
+ 1238  diskutil eject /dev/disk2
+ 1239  сдуфк
+ 1240  clear
+ 1241  htop
+ 1242  clear
+ 1243  npm run
+ 1244  npm start
+ 1245  сдуфк
+ 1246  claer
+ 1247  clear
+ 1248  cd ..
+ 1249  cd oquToday
+ 1250  cd golangApi
+ 1251  cdd oquToday
+ 1252  cd oquToday
+ 1253  clear
+ 1254  cd ..
+ 1255  mkdir oqu-today-rest-api
+ 1256  cd oqu-today-rest-api
+ 1257  git init 
+ 1258  heroku 
+ 1259  git remote
+ 1260  git remote:control
+ 1261  npm start
+ 1262  сдуфк
+ 1263  clear
+ 1264  make
+ 1265  make *
+ 1266  make main
+ 1267  make queue
+ 1268  clear
+ 1269  npm start
+ 1270  clear
+ 1271  psql restapi_dev
+ 1272  igrate -source migrations -database postgres://localhost:5432/restapi_dev down
+ 1273  claer
+ 1274  clear
+ 1275  migrate -source migrations  -database postgres://localhost:5432/restapi_dev up
+ 1276  migrate -source migrations  -database postgres://localhost:5432/restapi_dev?sslmode=disable up
+ 1277  pg_ctl -D /usr/local/var/postgres start
+ 1278  migrate -source migrations  -database postgresql://localhost:5432/restapi_dev?sslmode=disable up
+ 1279  migrate -source migrations  -database postgres://localhost:5432/restapi_dev?sslmode=disable up
+ 1280  psql restapi_dev
+ 1281  psql restapi_dev1
+ 1282  clear
+ 1283  migrate -source migrations  -database postgres://localhost:5432/restapi_dev up
+ 1284  migrate -source migrations  -database postgres://localhost:5432/restapi_dev down
+ 1285  migrate -source ./\migrations  -database postgres://localhost:5432/restapi_dev down
+ 1286  migrate -source ./migrations  -database postgres://localhost:5432/restapi_dev down
+ 1287  migrate -source /migrations  -database postgres://localhost:5432/restapi_dev down
+ 1288  migrate -source /migrations  -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1289  migrate -source migrations  -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1290  migrate -source migrations  -database postgres://local32/restapi_dev?sslmode=disable down
+ 1291  migrate -source migrations  -database postgres://localhost:5432/restapi_dev down
+ 1292  migrate -database postgres://localhost:5432/restapi_dev down
+ 1293  migrate -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1294  migrate -database postgres://localhost:5432/restapi_dev?sslmode=disabled down
+ 1295  migrate -database postgres://localhost:5432/restapi_dev?ssl_mode=disable down
+ 1296  migrate -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1297  migrate -source migrations -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1298  migrate -help\\n
+ 1299  migrate -path migrations -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1300  migrate -path migrations -database postgres://localhost:5432/restapi_dev down
+ 1301  migrate -path migrations -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1302  migrate -path migrations -database postgres://localhost:5432/restapi_dev sslmode=disable down
+ 1303  migrate -path migrations -database postgres://localhost:5432/restapi_dev?sslmode=disable down
+ 1304  migrate -path migrations -database postgres://localhost:5432/restapi_dev?sslmode=require down
+ 1305  migrate -path migrations -database postgres://localhost:5432/restapi_dev?sslmode down
+ 1306  migrate -path migrations -database postgres://localhost:5432/restapi_dev down
+ 1307  migrate -path migrations -database "postgres://localhost:5432/restapi_dev" down
+ 1308  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" down
+ 1309  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" up
+ 1310  clear
+ 1311  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" down
+ 1312  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" up
+ 1313  psql restapi_dev
+ 1314  migrate -path migrations -database "postgres://localhost:5432/restapi_test?sslmode=disable" down
+ 1315  migrate -path migrations -database "postgres://localhost:5432/restapi_test?sslmode=disable" up
+ 1316  make
+ 1317  ./apiserver
+ 1318  clear
+ 1319  make
+ 1320  ./apiserver
+ 1321  migrate -path migrations -database "postgres://localhost:5432/restapi_test?sslmode=disable" down
+ 1322  migrate -path migrations -database "postgres://localhost:5432/restapi_test?sslmode=disable" up
+ 1323  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" up
+ 1324  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" down
+ 1325  migrate -path migrations -database "postgres://localhost:5432/restapi_dev?sslmode=disable" up
+ 1326  clear
+ 1327  make 
+ 1328  ./apiserver
+ 1329  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" down
+ 1330  migrate -path migrations -database "postgres://localhost/restapi_dev?sslmode=disable" up
+ 1331  clear
+ 1332  make 
+ 1333  ./apiserver
+ 1334  make
+ 1335  ./apiserver
+ 1336  make
+ 1337  ./apiserver
+ 1338  clear
+ 1339  diskutil list
+ 1340  diskutil eject /dev/disk2
+ 1341  clear
+ 1342  sudo sysctl -w net.inet.ip.ttl=65
+ 1343  clear
+ 1344  python -venv env
+ 1345  python venv env
+ 1346  python3 venv env
+ 1347  python3 -env venv
+ 1348  python3 -m venv env
+ 1349  source env/bin/activate
+ 1350  clear
+ 1351  pip install pyTelegramBotAPI
+ 1352  clear
+ 1353  python bot.oy
+ 1354  python bot.py
+ 1355  source /Users/aldiaramirov/Desktop/BirthdayBot/env/bin/activate
+ 1356  /Users/aldiaramirov/Desktop/BirthdayBot/env/bin/python3 /Users/aldiaramirov/Desktop/BirthdayBot/bot.py
+ 1357  clear
+ 1358  /Users/aldiaramirov/Desktop/BirthdayBot/env/bin/python3 /Users/aldiaramirov/Desktop/BirthdayBot/bot.py
+ 1359  ^[OA
+ 1360  /Users/aldiaramirov/Desktop/BirthdayBot/env/bin/python3 /Users/aldiaramirov/Desktop/BirthdayBot/bot.py
+ 1361  clear
+ 1362  npm start
+ 1363  clear
+ 1364  htop
+ 1365  psql -l
+ 1366  psql postgres
+ 1367  psql template0
+ 1368  psql template1
+ 1369  python bot
+ 1370  python bot.py
+ 1371  clear
+ 1372  htop
+ 1373  clear
+ 1374  go mod init http://github.com/amirovAldiyar/gin-rest-api
+ 1375  go mod init github.com/amirovAldiyar/gin-rest-api
+ 1376  go get github.com/gin-gonic/gin
+ 1377  go run server.go
+ 1378  clear
+ 1379  go run server.go
+ 1380  desource
+ 1381  source 
+ 1382  deactivate 
+ 1383  clear
+ 1384  hostname
+ 1385  clear
+ 1386  go run server.go
+ 1387  go get github.com/tpkeeper/gin-dump
+ 1388  go run server.go
+ 1389  htop
+ 1390  go get github.com/appleboy/gin-jwt/v2
+ 1391  clear
+ 1392  npm start
+ 1393  clear
+ 1394  go run main.go
+ 1395  go mod init github.com/amirovAldiar/oqu-gin
+ 1396  go get github.com/gin-gonic/gin
+ 1397  clear
+ 1398  sudo -u postgres psql
+ 1399  psql restapi-dev
+ 1400  psql restapi_dev
+ 1401  clear
+ 1402  go get golang.org/x/crypto/bcrypt
+ 1403  go get github.com/go-ozzo/ozzo-validation/v4
+ 1404  go get github.com/go-ozzo/ozzo-validation/v4/is
+ 1405  clear
+ 1406  htop
+ 1407  сдуфк
+ 1408  clear
+ 1409  ruby -v
+ 1410  rubyversionmanager
+ 1411  ruby 
+ 1412  clear
+ 1413  gem install solargraph
+ 1414  sudo gem install solargraph
+ 1415  htop
+ 1416  clear
+ 1417  ruby test.rb
+ 1418  clear
+ 1419  ruby test.rb
+ 1420  clear
+ 1421  ruby test.rb
+ 1422  clear
+ 1423  ruby test.rb
+ 1424  clear
+ 1425  ruby test.rb
+ 1426  clear
+ 1427  ruby test.rb
+ 1428  clear
+ 1429  ruby test.rb
+ 1430  clear
+ 1431  ruby test.rb
+ 1432  ruby
+ 1433  ruby test.rb
+ 1434  clear
+ 1435  ruby test.rb
+ 1436  open -a "Google Chrome" --args --disable-gpu-vsync --disable-frame-rate-limit
+ 1437  clear
+ 1438  htop
+ 1439  clear
+ 1440  мшь
+ 1441  vim
+ 1442  cleware
+ 1443  clear
+ 1444  diskutil
+ 1445  diskutil list
+ 1446  diskutil eject /dev/disk3
+ 1447  clear
+ 1448  сдуфк
+ 1449  clear
+ 1450  cd Downloads/
+ 1451  code ex5_start_code
+ 1452  diskutil list
+ 1453  diskutil eject /dev/disk2
+ 1454  clear
+ 1455  htop
+ 1456  diskutil
+ 1457  cd "/Users/aldiaramirov/Desktop" && clear
+ 1458  python3 test.py
+ 1459  pip install requests
+ 1460  pip3 install requests
+ 1461  clear
+ 1462  python3 test.py
+ 1463  clear
+ 1464  cear
+ 1465  clear
+ 1466  clasd
+ 1467  clear
+ 1468  ruby
+ 1469  cd $ROOT
+ 1470  clear
+ 1471  brew install gpg2
+ 1472  clear
+ 1473  htop
+ 1474  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1475  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2
+ 1476  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2
+ 1477  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1478  \curl -sSL https://get.rvm.io | bash -s stable
+ 1479  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1480  gpg --version
+ 1481  clear
+ 1482  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1483  clear
+ 1484  gpg
+ 1485  clear
+ 1486  бой при получении с сервера ключей: General 
+ 1487  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1488  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1489  gpg --keyserver hkp://pgp.mit.edu --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+ 1490  curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+ 1491  curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -
+ 1492  \curl -sSL https://get.rvm.io | bash -s stable
+ 1493  \curl -sSL https://get.rvm.io | bash -s stable --rails
+ 1494  rvm install 2.7.1
+ 1495  rvm reload
+ 1496  rvm install 2.7.1
+ 1497  rvm use 2.7.1
+ 1498  ruby --version
+ 1499  gem install rails
+ 1500  brew install yarn
+ 1501  cd Desktop
+ 1502  cd Ruby/Projects
+ 1503  cd Ruby
+ 1504  mkdir Projects
+ 1505  cd Projects
+ 1506  mkdir 
+ 1507  rails new youtube-tutorial
+ 1508  htop
+ 1509  cd youtube-tutorial
+ 1510  code .
+ 1511  git config --local user.name "Aldiyar"
+ 1512  git config --local user.email 
+ 1513  git config --local user.email "amirovaldiar@gmail.com"
+ 1514  git add -A
+ 1515  git status
+ 1516  git commit -m "App skeleton"  
+ 1517  git remote add origin https://github.com/AmirovAldiyar/rubysocial.git
+ 1518  git push -u origin master
+ 1519  rails generate controller posts index
+ 1520  clear
+ 1521  cd Desktop
+ 1522  cd Ruby/Projects
+ 1523  open youtube-tutorial
+ 1524  gem install solargraph
+ 1525  ruby\n
+ 1526  gen install rubocop
+ 1527  gmn install rubocop
+ 1528  gem install rubocop
+ 1529  clear
+ 1530  rails server
+ 1531  yarn add bootstrap jquery popper.js
+ 1532  рещз
+ 1533  htop
+ 1534  rails server
+ 1535  clear
+ 1536  htop
+ 1537  killall -9 rails
+ 1538  htop
+ 1539  killall -9 spring
+ 1540  htop
+ 1541  rails server -p 3001
+ 1542  cd $ROOT
+ 1543  htop
+ 1544  htop]\\n
+ 1545  htop
+ 1546  psql postgres
+ 1547  echo 'export APPLICATION_DATABASE_PASSWORD=Aldiyar123' >> ~/.bashrc
+ 1548  tail ~/.bashrc
+ 1549  clear
+ 1550  source ~/.bashrc
+ 1551  clear
+ 1552  bundle install
+ 1553  clear
+ 1554  rails db:create
+ 1555  clear
+ 1556  rails db:create
+ 1557  rails generate model posts id:integer title:string body:string created_by:integer topic_id:integer
+ 1558  rails generate model topics alias:string title:string
+ 1559  rails db:migrate
+ 1560  psql postgres
+ 1561  rails db:migrate
+ 1562  clear
+ 1563  htop
+ 1564  сдуфк
+ 1565  clear
+ 1566  /Users/aldiaramirov/Downloads/initital 
+ 1567  code .
+ 1568  htop
+ 1569  cd ..
+ 1570  cd ,,
+ 1571  cd ..
+ 1572  ls
+ 1573  cd bin
+ 1574  cd ,,
+ 1575  ..
+ 1576  ls
+ 1577  usrt
+ 1578  usr
+ 1579  ls
+ 1580  bin
+ 1581  ls
+ 1582  clear
+ 1583  htop
+ 1584  сдуфк
+ 1585  clear
+ 1586  htop
+ 1587  htp[
+ 1588  hotp
+ 1589  htop
+ 1590  clear
+ 1591  htop
+ 1592  ip
+ 1593  ipconfig
+ 1594  ifconfig
+ 1595  ifconfig | grep inet
+ 1596  clear
+ 1597  htop\n
+ 1598  clear
+ 1599  chrome
+ 1600  clear
+ 1601  chrome.app
+ 1602  clear
+ 1603  htop
+ 1604  clear
+ 1605  hto]
+ 1606  htop
+ 1607  clear
+ 1608  htop
+ 1609  cd Desktop
+ 1610  cd Python
+ 1611  cd locallibrary
+ 1612  git init
+ 1613  git commit -m "first commit"
+ 1614  git remote add origin https://github.com/AmirovAldiyar/locallibrary.git
+ 1615  git add .
+ 1616  git commit -m "first commit"
+ 1617  git push -u origin master
+ 1618  clear
+ 1619  htop
+ 1620  clear
+ 1621  htop
+ 1622  htop\n
+ 1623  clear
+ 1624  htop
+ 1625  sudo sysctl -w net.inet.ip.ttl=65
+ 1626  clear
+ 1627  htop
+ 1628  clear
+ 1629  top
+ 1630  nmp --version
+ 1631  sudo npm i -g create-react-app@1.5.2
+ 1632  clear
+ 1633  cd Desktop
+ 1634  cd frontend
+ 1635  create-react-app react-app
+ 1636  clear
+ 1637  cd react-app
+ 1638  npm start
+ 1639  npm 
+ 1640  clear
+ 1641  cd ..
+ 1642  cd..
+ 1643  cd ..
+ 1644  cd $ROOT$
+ 1645  cd ROOT
+ 1646  cd %ROOT%
+ 1647  cd .. 
+ 1648  cd ..
+ 1649  cd D
+ 1650  cd Desktop
+ 1651  cd frontend
+ 1652  npx create-react-app react-app
+ 1653  clear
+ 1654  cd react-app
+ 1655  npm start
+ 1656  npm uninstall -g create-react-app
+ 1657  sudo npm start
+ 1658  sudo npm uninstall -g create-react-app
+ 1659  clear
+ 1660  cd ..
+ 1661  npx create-react-app react-app
+ 1662  clear
+ 1663  cd react-app
+ 1664  npm start
+ 1665  hotp
+ 1666  htop
+ 1667  npm start
+ 1668  clear
+ 1669  cd ,,
+ 1670  cd ..
+ 1671  npx create-react-app counter-app
+ 1672  cd counter-app
+ 1673  npm start
+ 1674  npm i bootstrap@4.1.1
+ 1675  htop
+ 1676  cd Desktop
+ 1677  cd frontend
+ 1678  cd counter-app
+ 1679  npm start
+ 1680  gcc -v
+ 1681  clear
+ 1682  ssh -X alamirov@osc-14.edu.innopolis.ru
+ 1683  ssh -X alamirov@osc-1.edu.innopolis.ru
+ 1684  ssh -X a@osc-1.edu.innopolis.ru
+ 1685  ssh -X aasdf@osc-2.edu.innopolis.ru
+ 1686  ssh -X alamirov@osc-14.edu.innopolis.ru
+ 1687  ssh -X alamirov@osc-0.edu.innopolis.ru
+ 1688  ssh -X alamirov@osc-123.edu.innopolis.ru
+ 1689  ssh -X alamirov@osc-1.edu.innopolis.ru
+ 1690  ssh -X alamirov@osc-4.edu.innopolis.ru
+ 1691  ssh -X alamirov@osc-9.edu.innopolis.ru
+ 1692  ssh -X alamirov@osc-[N].edu.innopolis.ru
+ 1693  ssh -X alamirov@osc-1.edu.innopolis.ru
+ 1694  ssh -Xalamirov@osc-1.edu.innopolis.ru
+ 1695  ssh -X alamirov@osc-1.edu.innopolis.ru
+ 1696  ssh -X alamirov@osc-1.edu.innopolis.ru port
+ 1697  ssh -X alamirov@osc-1.edu.innopolis.ru port 23
+ 1698  ssh -X alamirov@osc-1.edu.innopolis.ru 
+ 1699  ssh -X al@osc-1.edu.innopolis.university
+ 1700  ssh -X al@osc-1.edu.innopolis.ru
+ 1701  sudo ssh -X al@osc-1.edu.innopolis.ru
+ 1702  sudo ssh -X alamirov@osc-1.edu.innopolis.ru
+ 1703  sudo ssh -X alamirov@osc-2.edu.innopolis.ru
+ 1704  sudo ssh -X alamirov@osc-3.edu.innopolis.ru
+ 1705  sudo ssh -X alamirov@osc-4.edu.innopolis.ru
+ 1706  sudo ssh -X alamirov@osc-3.edu.innopolis.ru
+ 1707  $ssh -X [username]@osc-[N].edu.innopolis.ru
+ 1708  $ssh -X alamirov@osc-3.edu.innopolis.ru
+ 1709  ssh -X alamirov@osc-3.edu.innopolis.ru
+ 1710  clear
+ 1711  cd Desktop
+ 1712  whoami
+ 1713  clear
+ 1714  su
+ 1715  clear
+ 1716  man whoami
+ 1717  clear
+ 1718  ls
+ 1719  ls | sort -r
+ 1720  ls | sort -r | tail -n 3
+ 1721  ls | sort -r | head -n 3
+ 1722  pwd
+ 1723  mkdir somedir
+ 1724  ls
+ 1725  touch test.txt
+ 1726  gedit test.txt
+ 1727  nedit test.txt
+ 1728  nano test.txt
+ 1729  nano test.py
+ 1730  python test.py
+ 1731  clear
+ 1732  man git
+ 1733  clear
+ 1734  echo asdf
+ 1735  clear
+ 1736  ls
+ 1737  mv test.py main.py
+ 1738  ls
+ 1739  python main.py
+ 1740  clear
+ 1741  gedit
+ 1742  nano &
+ 1743  clear
+ 1744  nano test.txt &
+ 1745  nano main.py
+ 1746  clear
+ 1747  cd Education
+ 1748  cd OS
+ 1749  mkdir week1
+ 1750  cd week1
+ 1751  clear
+ 1752  cd ~
+ 1753  cd ..
+ 1754  ls
+ 1755  cd..
+ 1756  ls
+ 1757  ls | grep gcc | sort -r > ~/Desktop/Education/OS/ex1.txt
+ 1758  ls | grep "gcc" | sort -r > ~/Desktop/Education/OS/ex1.txt
+ 1759  ls 
+ 1760  ls usr/bin | grep "gcc" | sort -r > ~/Desktop/Education/OS/ex1.txt
+ 1761  clear
+ 1762  history
