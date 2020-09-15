@@ -10,16 +10,18 @@ char buffer[4];
 void* producer (void* args){
   while(1){
       char c = rand()%128;
-
+//    If there is no empty space in buffer, then just wait
       while(empty==0){
       }
       empty--;
 
       buffer[full]=c;
 
+//    If there is everything is full, then just wait
       while(full>=4){
       }
       full++;
+//    if al == 1 then print number and make al = 0
       if(al){
         printf("1\n");
         al = 0;
@@ -29,10 +31,12 @@ void* producer (void* args){
 
 void* consumer (void* args){
   while(1){
+//  if there is nothing to grab, then wait
     while(full==0){
     }
     full--;
       char c = buffer[full];
+//  if there is nothing to empty, then wait
       while(empty>=4){
       }
       empty++;
@@ -42,6 +46,7 @@ void* consumer (void* args){
 
 void* alarmer (void* args){
   while(1){
+    //sleeps 60 sec and then makes al equal to 1
     sleep(60);
     al = 1;
   }
