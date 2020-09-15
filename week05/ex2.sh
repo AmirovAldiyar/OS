@@ -1,8 +1,10 @@
 while true; do
-    if ! ln file file.lock#if there is a file with name "file.lock" then sleep 1
+    if ! ln file file.lock
+    #if there is a file with name "file.lock" then sleep 1
     then
        sleep 1
-    else#if there is no such a file then do the following
+    else
+        #if there is no such a file then do the following
         #make file.lock file
         touch file.lock
         #then 50 times take the last number from the "file" and
@@ -21,4 +23,4 @@ while true; do
         break
     fi
 done
-#without 
+#without
