@@ -1,0 +1,4 @@
+Virtual Address and Physical Address:
+Physical address is an address which is used from hardware.
+Virtual address is an address which is used from process point of view.
+Virtual address is mapped to physical.(Sometimes can have no difference between them)

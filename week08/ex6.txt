@@ -1,0 +1,6 @@
+Virtual address space is 2^16bytes
+page size is 2^13bytes(8Kb)
+so since every entry is a page
+we just should divide (2^16) to (2^13)
+which is equal to 2^3 = 8
+answer is 8
