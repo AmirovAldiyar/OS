@@ -54,13 +54,8 @@ int main(){
     }
     v[id]=v[id] | (1 << 32);
   }
-  // int d;
-  // fscanf(fp, "%d", &d);
-  // fscanf(fp, "%d", &d);
-  // fscanf(fp, "%d", &d);
-  // fscanf(fp, "%d", &d);
-  // printf("%d\n", d);
   printf("hits %d\n", hit);
   printf("miss %d\n", miss);
+  printf("ratio hit/miss %f\n", ((float)hit/(float)miss));
   fclose(fp);
 }
