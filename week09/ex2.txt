@@ -1,0 +1,6 @@
+if we have sequence of the same references. (e.g. "15 15 15 15 15 15 15 15 15 15")
+then we have 9 hits and 1 miss
+It means if we have a lot of the references to the same thing, then we have more lots of hits.
+--------------------------------------------------------------------------------------------------------
+if we have sequence of the different references without any repetition (e.g. "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 ...")
+then we have 0 hits and lots and lots of misses.
