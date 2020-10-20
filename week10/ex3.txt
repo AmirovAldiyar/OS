@@ -1,0 +1,17 @@
+removed execute for everyone:
+-rw-rw-rw-  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt
+
+all permission only for owner and others:
+-rwxrw-rwx  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt
+
+group permission equal to the user one:
+-rwxrwxrwx  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt
+
+This is what 660 mean:
+-rw-rw----  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt
+
+This is what 775 mean:
+-rwxrwxr-x  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt
+
+This is what 777 mean:
+-rwxrwxrwx  1 aldiaramirov  staff  0 Oct 20 14:24 _ex3.txt

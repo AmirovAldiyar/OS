@@ -1,0 +1,7 @@
+>find . -inum 101760332
+./week01/file.txt
+./_ex2.txt
+
+
+>find . -inum 101760332 -exec rm {} \;
+>find . -inum 101760332
