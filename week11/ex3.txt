@@ -1,0 +1,10 @@
+Program 1 output:
+Hello
+Hello
+Program 2 output:
+Hello
+
+
+The only reason for this: 
+The "\n" works as fflush(stdout) in the second case
+and in the first case fork() copies the buffer with "Hello" in child process
